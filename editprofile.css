@@ -100,30 +100,6 @@ body {
     font-size: 18px;
     font-weight: 600;
   }
-  /* .vector-icon {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    max-width: 100%;
-    overflow: hidden;
-    max-height: 100%;
-    object-fit: cover;
-  }
-  .icon-user-circle {
-    position: absolute;
-    height: 11.75%;
-    width:14%;
-    top: 12.2%;
-    right: 44.22%;
-    bottom: 76.05%;
-    left: 43.71%;
-  } */
-
-
   .profile-pic {
     color: transparent;
     transition: all 0.3s ease;
